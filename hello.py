@@ -1,6 +1,8 @@
 """
 Talktoweb, 1. hafta, 2. ders,
 veri tipleri ve input için alıştırma;
+
+eline sağlık. teşkkür ederim. kullanıcı adını kimliğini belirtir şekilde değiştirmeni tavsiye ederim.
 """
 
 x = int (input('bir sayı giriniz '))
